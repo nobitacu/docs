@@ -95,7 +95,7 @@ Once you've reached Shepherd, you're now qualified for a vote in our DAO.
 ## Regen
 
 ![](/images/community-banner3.png)
-“De lo mio”, Shepherd. In our homeland, this term of endearment means “one of mine”. Because you have made it here, we consider you to be one of our closest allies in a mission yet unfulfilled. But there is little time for frivolities, the enemy has expanded into the farthest reaches of Web3 and we must continue to cultivate the lands upon which our node and dev allies will fight them. The work of Shepherds requires the softest of touches, as you will be venturing out to guide others towards the regenerative path of true decentralization. **Complete every job in all ranks of the Community Shepherd path** then submit the `!become-regen` command to earn enlightenment in the pantheon of Regens.
+“De lo' mio'”, Shepherd. In our homeland, this term of endearment means “one of mine”. Because you have made it here, we consider you to be one of our closest allies in a mission yet unfulfilled. But there is little time for frivolities, the enemy has expanded into the farthest reaches of Web3 and we must continue to cultivate the lands upon which our node and dev allies will fight them. The work of Shepherds requires the softest of touches, as you will be venturing out to guide others towards the regenerative path of true decentralization. **Complete every job in all ranks of the Community Shepherd path** then submit the `!become-regen` command to earn enlightenment in the pantheon of Regens.
 
 ### Telepathy
 
